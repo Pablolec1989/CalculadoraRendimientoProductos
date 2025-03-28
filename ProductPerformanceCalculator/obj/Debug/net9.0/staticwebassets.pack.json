@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\LECCESE\\source\\repos\\CalculadoraRendimientoProductos\\ProductPerformanceCalculator\\ProductPerformanceCalculator\\wwwroot\\producto\\4ebb2987-2931-4fdb-9c1a-738ebd7e4166.jfif",
+      "PackagePath": "staticwebassets\\producto\\4ebb2987-2931-4fdb-9c1a-738ebd7e4166.jfif"
+    },
+    {
+      "Id": "C:\\Users\\LECCESE\\source\\repos\\CalculadoraRendimientoProductos\\ProductPerformanceCalculator\\ProductPerformanceCalculator\\wwwroot\\producto\\d3ef7a6b-7c25-412a-b76f-e400ef6da8ac.jfif",
+      "PackagePath": "staticwebassets\\producto\\d3ef7a6b-7c25-412a-b76f-e400ef6da8ac.jfif"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.ProductPerformanceCalculator.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.ProductPerformanceCalculator.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.ProductPerformanceCalculator.props",
+      "PackagePath": "build\\ProductPerformanceCalculator.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.ProductPerformanceCalculator.props",
+      "PackagePath": "buildMultiTargeting\\ProductPerformanceCalculator.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.ProductPerformanceCalculator.props",
+      "PackagePath": "buildTransitive\\ProductPerformanceCalculator.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
