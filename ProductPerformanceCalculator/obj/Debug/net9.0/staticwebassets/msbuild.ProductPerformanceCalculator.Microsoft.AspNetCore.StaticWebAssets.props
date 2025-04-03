@@ -18,6 +18,24 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\producto\4ebb2987-2931-4fdb-9c1a-738ebd7e4166.jfif'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\producto\57608e70-8548-4323-b19a-d1adde329e6d.jfif'))">
+      <SourceType>Package</SourceType>
+      <SourceId>ProductPerformanceCalculator</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/ProductPerformanceCalculator</BasePath>
+      <RelativePath>producto/57608e70-8548-4323-b19a-d1adde329e6d.jfif</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>o5tuw2n62m</Fingerprint>
+      <Integrity>HEe5kCbA9ch2O5uGWPfcEuScmdUf2E1jJdsxVnEVFGA=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\producto\57608e70-8548-4323-b19a-d1adde329e6d.jfif'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\producto\d3ef7a6b-7c25-412a-b76f-e400ef6da8ac.jfif'))">
       <SourceType>Package</SourceType>
       <SourceId>ProductPerformanceCalculator</SourceId>
@@ -35,6 +53,24 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\producto\d3ef7a6b-7c25-412a-b76f-e400ef6da8ac.jfif'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\productoPropio\09835a0f-aeb5-435d-bb07-22e570ef3bb3.jfif'))">
+      <SourceType>Package</SourceType>
+      <SourceId>ProductPerformanceCalculator</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/ProductPerformanceCalculator</BasePath>
+      <RelativePath>productoPropio/09835a0f-aeb5-435d-bb07-22e570ef3bb3.jfif</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>9wwnfy3mqa</Fingerprint>
+      <Integrity>txIM4P1LhkjLyurtO03+Uyl+VJjXi8NNklHOyM1YaY4=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\productoPropio\09835a0f-aeb5-435d-bb07-22e570ef3bb3.jfif'))</OriginalItemSpec>
     </StaticWebAsset>
   </ItemGroup>
 </Project>

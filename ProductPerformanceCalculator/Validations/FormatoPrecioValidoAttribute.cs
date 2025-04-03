@@ -17,9 +17,9 @@ namespace ProductPerformanceCalculator.Validations
             // Expresión regular para validar el formato "$número.número" sin decimales
             Regex regex = new Regex(@"^\$\d{1,3}(\.\d{3})*$");
 
-            if (!regex.IsMatch(precioString))
+            if (!regex.IsMatch(precioString!))
             {
-                return new ValidationResult("El formato del precio no es válido. Debe ser '$número.número' (ej. $73.500).");
+                return new ValidationResult("El formato del precio no es válido. Debe ser ej. $73.500.");
             }
 
             return ValidationResult.Success;

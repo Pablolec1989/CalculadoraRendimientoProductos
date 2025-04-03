@@ -11,8 +11,8 @@ using ProductPerformanceCalculator;
 namespace ProductPerformanceCalculator.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20250328135844_TablaProductos")]
-    partial class TablaProductos
+    [Migration("20250401165949_Tablas")]
+    partial class Tablas
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -37,7 +37,7 @@ namespace ProductPerformanceCalculator.Migrations
                         .HasColumnType("nvarchar(500)");
 
                     b.Property<decimal>("DilucionDeUsoMaxima")
-                        .HasColumnType("decimal(18, 2)");
+                        .HasColumnType("decimal(18,2)");
 
                     b.Property<string>("Foto")
                         .IsUnicode(false)
@@ -49,16 +49,49 @@ namespace ProductPerformanceCalculator.Migrations
                         .HasColumnType("nvarchar(50)");
 
                     b.Property<decimal>("Precio")
-                        .HasPrecision(18, 5)
-                        .HasColumnType("decimal(18,5)");
+                        .HasColumnType("decimal(18,2)");
 
                     b.Property<decimal>("PresentacionEnLitros")
-                        .HasPrecision(18, 5)
-                        .HasColumnType("decimal(18,5)");
+                        .HasColumnType("decimal(18,2)");
 
                     b.HasKey("Id");
 
                     b.ToTable("Productos");
+                });
+
+            modelBuilder.Entity("ProductPerformanceCalculator.Entities.ProductoPropio", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("Descripcion")
+                        .HasMaxLength(500)
+                        .HasColumnType("nvarchar(500)");
+
+                    b.Property<decimal>("DilucionDeUsoMaxima")
+                        .HasColumnType("decimal(18,2)");
+
+                    b.Property<string>("Foto")
+                        .IsUnicode(false)
+                        .HasColumnType("varchar(max)");
+
+                    b.Property<string>("Nombre")
+                        .IsRequired()
+                        .HasMaxLength(50)
+                        .HasColumnType("nvarchar(50)");
+
+                    b.Property<decimal>("Precio")
+                        .HasColumnType("decimal(18,2)");
+
+                    b.Property<decimal>("PresentacionEnLitros")
+                        .HasColumnType("decimal(18,2)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("ProductosPropios");
                 });
 #pragma warning restore 612, 618
         }

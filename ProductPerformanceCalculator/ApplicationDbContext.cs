@@ -11,9 +11,9 @@ namespace ProductPerformanceCalculator
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-
         }
 
         public DbSet<Producto> Productos { get; set; }
+        public DbSet<ProductoPropio> ProductosPropios { get; set; }
     }
 }

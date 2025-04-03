@@ -1,2 +1,4 @@
 wwwroot\producto\4ebb2987-2931-4fdb-9c1a-738ebd7e4166.jfif
+wwwroot\producto\57608e70-8548-4323-b19a-d1adde329e6d.jfif
 wwwroot\producto\d3ef7a6b-7c25-412a-b76f-e400ef6da8ac.jfif
+wwwroot\productoPropio\09835a0f-aeb5-435d-bb07-22e570ef3bb3.jfif

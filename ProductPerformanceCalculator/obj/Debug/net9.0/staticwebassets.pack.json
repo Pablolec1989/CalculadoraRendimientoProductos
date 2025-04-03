@@ -1,8 +1,16 @@
 {
   "Files": [
     {
+      "Id": "C:\\Users\\LECCESE\\source\\repos\\CalculadoraRendimientoProductos\\ProductPerformanceCalculator\\ProductPerformanceCalculator\\wwwroot\\productoPropio\\09835a0f-aeb5-435d-bb07-22e570ef3bb3.jfif",
+      "PackagePath": "staticwebassets\\productoPropio\\09835a0f-aeb5-435d-bb07-22e570ef3bb3.jfif"
+    },
+    {
       "Id": "C:\\Users\\LECCESE\\source\\repos\\CalculadoraRendimientoProductos\\ProductPerformanceCalculator\\ProductPerformanceCalculator\\wwwroot\\producto\\4ebb2987-2931-4fdb-9c1a-738ebd7e4166.jfif",
       "PackagePath": "staticwebassets\\producto\\4ebb2987-2931-4fdb-9c1a-738ebd7e4166.jfif"
+    },
+    {
+      "Id": "C:\\Users\\LECCESE\\source\\repos\\CalculadoraRendimientoProductos\\ProductPerformanceCalculator\\ProductPerformanceCalculator\\wwwroot\\producto\\57608e70-8548-4323-b19a-d1adde329e6d.jfif",
+      "PackagePath": "staticwebassets\\producto\\57608e70-8548-4323-b19a-d1adde329e6d.jfif"
     },
     {
       "Id": "C:\\Users\\LECCESE\\source\\repos\\CalculadoraRendimientoProductos\\ProductPerformanceCalculator\\ProductPerformanceCalculator\\wwwroot\\producto\\d3ef7a6b-7c25-412a-b76f-e400ef6da8ac.jfif",

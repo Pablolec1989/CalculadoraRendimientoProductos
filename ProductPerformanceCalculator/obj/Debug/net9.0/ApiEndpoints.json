@@ -1,5 +1,165 @@
 [
   {
+    "ContainingType": "ProductPerformanceCalculator.Controllers.ProductoPropioController",
+    "Method": "Get",
+    "RelativePath": "api/productoPropio",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[ProductPerformanceCalculator.DTOs.ProductoPropioDTO, ProductPerformanceCalculator, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ProductPerformanceCalculator.Controllers.ProductoPropioController",
+    "Method": "Post",
+    "RelativePath": "api/productoPropio",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Nombre",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Descripcion",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Foto",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      },
+      {
+        "Name": "PresentacionEnLitros",
+        "Type": "System.Decimal",
+        "IsRequired": false
+      },
+      {
+        "Name": "DilucionDeUsoMaxima",
+        "Type": "System.Decimal",
+        "IsRequired": false
+      },
+      {
+        "Name": "Precio",
+        "Type": "System.Decimal",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProductPerformanceCalculator.Controllers.ProductoPropioController",
+    "Method": "Get",
+    "RelativePath": "api/productoPropio/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ProductPerformanceCalculator.DTOs.ProductoPropioDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "ObtenerProductoPropioPorId"
+  },
+  {
+    "ContainingType": "ProductPerformanceCalculator.Controllers.ProductoPropioController",
+    "Method": "Put",
+    "RelativePath": "api/productoPropio/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Nombre",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Descripcion",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Foto",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      },
+      {
+        "Name": "PresentacionEnLitros",
+        "Type": "System.Decimal",
+        "IsRequired": false
+      },
+      {
+        "Name": "DilucionDeUsoMaxima",
+        "Type": "System.Decimal",
+        "IsRequired": false
+      },
+      {
+        "Name": "Precio",
+        "Type": "System.Decimal",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProductPerformanceCalculator.Controllers.ProductoPropioController",
+    "Method": "Delete",
+    "RelativePath": "api/productoPropio/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "ProductPerformanceCalculator.Controllers.ProductsController",
     "Method": "Get",
     "RelativePath": "api/productos",

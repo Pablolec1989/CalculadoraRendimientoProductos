@@ -10,12 +10,19 @@ namespace ProductPerformanceCalculator.Utilities
         public AutomapperProfile()
         {
             ConfigurarMapeoProductos();
+            ConfigurarMapeoProductosPropios();
         }
 
         private void ConfigurarMapeoProductos()
         {
             CreateMap<Producto, ProductoDTO>();
             CreateMap<ProductoCreationDTO, Producto>();
+        }
+
+        private void ConfigurarMapeoProductosPropios()
+        {
+            CreateMap<Producto, ProductoPropioDTO>();
+            CreateMap<ProductoPropioCreationDTO, Producto>();
         }
     }
 }

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "1w5eNPhuzeEG6dC/Z9tOjGDdzHAl0i5AQDyGPv/zrH4=",
+  "Hash": "Wll/DAMucc+UsLYvmAZOaPiYk3vYeWxexbU678WNRNg=",
   "Source": "ProductPerformanceCalculator",
   "BasePath": "_content/ProductPerformanceCalculator",
   "Mode": "Default",
@@ -38,6 +38,27 @@
       "OriginalItemSpec": "wwwroot\\producto\\4ebb2987-2931-4fdb-9c1a-738ebd7e4166.jfif"
     },
     {
+      "Identity": "C:\\Users\\LECCESE\\source\\repos\\CalculadoraRendimientoProductos\\ProductPerformanceCalculator\\ProductPerformanceCalculator\\wwwroot\\producto\\57608e70-8548-4323-b19a-d1adde329e6d.jfif",
+      "SourceId": "ProductPerformanceCalculator",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\LECCESE\\source\\repos\\CalculadoraRendimientoProductos\\ProductPerformanceCalculator\\ProductPerformanceCalculator\\wwwroot\\",
+      "BasePath": "_content/ProductPerformanceCalculator",
+      "RelativePath": "producto/57608e70-8548-4323-b19a-d1adde329e6d#[.{fingerprint}]?.jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "o5tuw2n62m",
+      "Integrity": "HEe5kCbA9ch2O5uGWPfcEuScmdUf2E1jJdsxVnEVFGA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\producto\\57608e70-8548-4323-b19a-d1adde329e6d.jfif"
+    },
+    {
       "Identity": "C:\\Users\\LECCESE\\source\\repos\\CalculadoraRendimientoProductos\\ProductPerformanceCalculator\\ProductPerformanceCalculator\\wwwroot\\producto\\d3ef7a6b-7c25-412a-b76f-e400ef6da8ac.jfif",
       "SourceId": "ProductPerformanceCalculator",
       "SourceType": "Discovered",
@@ -57,6 +78,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\producto\\d3ef7a6b-7c25-412a-b76f-e400ef6da8ac.jfif"
+    },
+    {
+      "Identity": "C:\\Users\\LECCESE\\source\\repos\\CalculadoraRendimientoProductos\\ProductPerformanceCalculator\\ProductPerformanceCalculator\\wwwroot\\productoPropio\\09835a0f-aeb5-435d-bb07-22e570ef3bb3.jfif",
+      "SourceId": "ProductPerformanceCalculator",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\LECCESE\\source\\repos\\CalculadoraRendimientoProductos\\ProductPerformanceCalculator\\ProductPerformanceCalculator\\wwwroot\\",
+      "BasePath": "_content/ProductPerformanceCalculator",
+      "RelativePath": "productoPropio/09835a0f-aeb5-435d-bb07-22e570ef3bb3#[.{fingerprint}]?.jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9wwnfy3mqa",
+      "Integrity": "txIM4P1LhkjLyurtO03+Uyl+VJjXi8NNklHOyM1YaY4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\productoPropio\\09835a0f-aeb5-435d-bb07-22e570ef3bb3.jfif"
     }
   ],
   "Endpoints": [
@@ -143,6 +185,88 @@
       ]
     },
     {
+      "Route": "producto/57608e70-8548-4323-b19a-d1adde329e6d.jfif",
+      "AssetFile": "C:\\Users\\LECCESE\\source\\repos\\CalculadoraRendimientoProductos\\ProductPerformanceCalculator\\ProductPerformanceCalculator\\wwwroot\\producto\\57608e70-8548-4323-b19a-d1adde329e6d.jfif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "551788"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/pjpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HEe5kCbA9ch2O5uGWPfcEuScmdUf2E1jJdsxVnEVFGA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Mar 2025 17:54:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HEe5kCbA9ch2O5uGWPfcEuScmdUf2E1jJdsxVnEVFGA="
+        }
+      ]
+    },
+    {
+      "Route": "producto/57608e70-8548-4323-b19a-d1adde329e6d.o5tuw2n62m.jfif",
+      "AssetFile": "C:\\Users\\LECCESE\\source\\repos\\CalculadoraRendimientoProductos\\ProductPerformanceCalculator\\ProductPerformanceCalculator\\wwwroot\\producto\\57608e70-8548-4323-b19a-d1adde329e6d.jfif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "551788"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/pjpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HEe5kCbA9ch2O5uGWPfcEuScmdUf2E1jJdsxVnEVFGA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Mar 2025 17:54:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "o5tuw2n62m"
+        },
+        {
+          "Name": "label",
+          "Value": "producto/57608e70-8548-4323-b19a-d1adde329e6d.jfif"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HEe5kCbA9ch2O5uGWPfcEuScmdUf2E1jJdsxVnEVFGA="
+        }
+      ]
+    },
+    {
       "Route": "producto/d3ef7a6b-7c25-412a-b76f-e400ef6da8ac.jfif",
       "AssetFile": "C:\\Users\\LECCESE\\source\\repos\\CalculadoraRendimientoProductos\\ProductPerformanceCalculator\\ProductPerformanceCalculator\\wwwroot\\producto\\d3ef7a6b-7c25-412a-b76f-e400ef6da8ac.jfif",
       "Selectors": [],
@@ -221,6 +345,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-jhvrqNSybMbSIZff/0pSMfhg+DIeNUc7RzvZ+aMo5Zc="
+        }
+      ]
+    },
+    {
+      "Route": "productoPropio/09835a0f-aeb5-435d-bb07-22e570ef3bb3.9wwnfy3mqa.jfif",
+      "AssetFile": "C:\\Users\\LECCESE\\source\\repos\\CalculadoraRendimientoProductos\\ProductPerformanceCalculator\\ProductPerformanceCalculator\\wwwroot\\productoPropio\\09835a0f-aeb5-435d-bb07-22e570ef3bb3.jfif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "63300"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/pjpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"txIM4P1LhkjLyurtO03+Uyl+VJjXi8NNklHOyM1YaY4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 01 Apr 2025 17:04:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9wwnfy3mqa"
+        },
+        {
+          "Name": "label",
+          "Value": "productoPropio/09835a0f-aeb5-435d-bb07-22e570ef3bb3.jfif"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-txIM4P1LhkjLyurtO03+Uyl+VJjXi8NNklHOyM1YaY4="
+        }
+      ]
+    },
+    {
+      "Route": "productoPropio/09835a0f-aeb5-435d-bb07-22e570ef3bb3.jfif",
+      "AssetFile": "C:\\Users\\LECCESE\\source\\repos\\CalculadoraRendimientoProductos\\ProductPerformanceCalculator\\ProductPerformanceCalculator\\wwwroot\\productoPropio\\09835a0f-aeb5-435d-bb07-22e570ef3bb3.jfif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "63300"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/pjpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"txIM4P1LhkjLyurtO03+Uyl+VJjXi8NNklHOyM1YaY4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 01 Apr 2025 17:04:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-txIM4P1LhkjLyurtO03+Uyl+VJjXi8NNklHOyM1YaY4="
         }
       ]
     }

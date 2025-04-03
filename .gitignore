@@ -1,0 +1,29 @@
+# Archivos de Visual Studio
+.vs/
+*.user
+*.suo
+*.sln.docstates
+
+# Directorios de compilación
+bin/
+obj/
+
+# Archivos de paquetes NuGet
+packages/
+*.nupkg
+
+# Archivos de caché de Resharper
+_ReSharper.*/
+
+# Archivos de salida de compilación
+*.exe
+*.dll
+*.pdb
+
+# Archivos de caché del sistema operativo
+[Tt]humbs.db
+*.DS_Store
+
+# Archivos de configuración local
+appsettings.Development.json
+*.config

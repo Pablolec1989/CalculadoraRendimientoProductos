@@ -167,3 +167,4 @@ C:\Users\LECCESE\source\repos\CalculadoraRendimientoProductos\ProductPerformance
 C:\Users\LECCESE\source\repos\CalculadoraRendimientoProductos\ProductPerformanceCalculator\ProductPerformanceCalculator\obj\Debug\net9.0\ProductPerformanceCalculator.genruntimeconfig.cache
 C:\Users\LECCESE\source\repos\CalculadoraRendimientoProductos\ProductPerformanceCalculator\ProductPerformanceCalculator\obj\Debug\net9.0\ref\ProductPerformanceCalculator.dll
 C:\Users\LECCESE\source\repos\CalculadoraRendimientoProductos\ProductPerformanceCalculator\ProductPerformanceCalculator\bin\Debug\net9.0\ProductPerformanceCalculator.staticwebassets.runtime.json
+C:\Users\LECCESE\source\repos\CalculadoraRendimientoProductos\ProductPerformanceCalculator\ProductPerformanceCalculator\obj\Debug\net9.0\ProductPerformanceCalculator.sourcelink.json

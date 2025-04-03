@@ -51,6 +51,7 @@ namespace ProductPerformanceCalculator.Controllers
             return productoDTO;
         }
 
+       
         [HttpPost]
         public async Task<IActionResult> Post([FromForm] ProductoCreationDTO productoCreationDTO)
         {
@@ -91,7 +92,7 @@ namespace ProductPerformanceCalculator.Controllers
         {
             var productosBorrados = await context.Productos.Where(p => p.Id == id).ExecuteDeleteAsync();
 
-            if(productosBorrados != 0)
+            if(productosBorrados == 0)
             {
                 return NotFound("Producto no encontrado");
             }

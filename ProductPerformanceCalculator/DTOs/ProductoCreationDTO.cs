@@ -11,6 +11,6 @@ namespace ProductPerformanceCalculator.DTOs
         public IFormFile? Foto { get; set; }
         public required decimal PresentacionEnLitros { get; set; }
         public required decimal DilucionDeUsoMaxima { get; set; }
-        public decimal Precio { get; set; }
+        public required decimal Precio { get; set; }
     }
 }

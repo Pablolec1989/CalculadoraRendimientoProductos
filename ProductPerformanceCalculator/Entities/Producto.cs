@@ -17,10 +17,9 @@ namespace ProductPerformanceCalculator.Entities
         [Required]
         [FormatoLitrosValido]
         public required decimal PresentacionEnLitros { get; set; }
-        [Required]
         [FormatoPrecioValido(ErrorMessage = "Formato de precio inválido.")]
-        public decimal Precio { get; set; }
-
+        [Required]
+        public required decimal Precio { get; set; }
         [Required]
         [Range(0.0001, double.MaxValue, ErrorMessage = "La dilución debe ser mayor a 0")]
         public required decimal DilucionDeUsoMaxima { get; set; }
