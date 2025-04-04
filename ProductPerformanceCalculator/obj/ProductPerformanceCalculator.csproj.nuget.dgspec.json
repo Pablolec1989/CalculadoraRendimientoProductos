@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LECCESE\\source\\repos\\CalculadoraRendimientoProductos\\ProductPerformanceCalculator\\ProductPerformanceCalculator\\ProductPerformanceCalculator.csproj": {}
+    "C:\\Users\\Rodrigo\\Documents\\PilatesApp\\CalculadoraRendimientoProductos\\ProductPerformanceCalculator\\ProductPerformanceCalculator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LECCESE\\source\\repos\\CalculadoraRendimientoProductos\\ProductPerformanceCalculator\\ProductPerformanceCalculator\\ProductPerformanceCalculator.csproj": {
+    "C:\\Users\\Rodrigo\\Documents\\PilatesApp\\CalculadoraRendimientoProductos\\ProductPerformanceCalculator\\ProductPerformanceCalculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LECCESE\\source\\repos\\CalculadoraRendimientoProductos\\ProductPerformanceCalculator\\ProductPerformanceCalculator\\ProductPerformanceCalculator.csproj",
+        "projectUniqueName": "C:\\Users\\Rodrigo\\Documents\\PilatesApp\\CalculadoraRendimientoProductos\\ProductPerformanceCalculator\\ProductPerformanceCalculator.csproj",
         "projectName": "ProductPerformanceCalculator",
-        "projectPath": "C:\\Users\\LECCESE\\source\\repos\\CalculadoraRendimientoProductos\\ProductPerformanceCalculator\\ProductPerformanceCalculator\\ProductPerformanceCalculator.csproj",
-        "packagesPath": "C:\\Users\\LECCESE\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LECCESE\\source\\repos\\CalculadoraRendimientoProductos\\ProductPerformanceCalculator\\ProductPerformanceCalculator\\obj\\",
+        "projectPath": "C:\\Users\\Rodrigo\\Documents\\PilatesApp\\CalculadoraRendimientoProductos\\ProductPerformanceCalculator\\ProductPerformanceCalculator.csproj",
+        "packagesPath": "C:\\Users\\Rodrigo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Rodrigo\\Documents\\PilatesApp\\CalculadoraRendimientoProductos\\ProductPerformanceCalculator\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\LECCESE\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Rodrigo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

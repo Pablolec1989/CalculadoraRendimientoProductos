@@ -4,50 +4,36 @@
 *.suo
 *.sln.docstates
 
-# Directorios de compilación
+# Directorios y archivos de compilación
 bin/
 obj/
-
-# Archivos de Docker
-Dockerfile.txt
-Dockerfile.original
-
-# Archivos de paquetes NuGet
-packages/
-*.nupkg
-*.nuget.props
-*.nuget.targets
-
-# Archivos específicos de NuGet en obj/
-**/obj/*.nuget.*
-**/obj/project.assets.json
-**/obj/project.nuget.cache
-
-# Archivos de caché de Resharper
-_ReSharper.*/
-*.resharper
-
-# Archivos de salida de compilación
 *.exe
 *.dll
 *.pdb
 *.cache
 
-# Archivos específicos de .NET
-**/obj/Debug/
-**/obj/Release/
+# Archivos de Docker temporales
+Dockerfile.txt
+Dockerfile.original
+
+# Archivos de NuGet y .NET
+packages/
+*.nupkg
+**/obj/*.nuget.*
 **/obj/project.assets.json
 **/obj/project.nuget.cache
+**/obj/Debug/
+**/obj/Release/
 **/obj/*.csproj.nuget.*
 **/obj/Debug/net9.0/*
 
-# Archivos de caché del sistema operativo
+# Archivos de caché y configuraciones locales
 [Tt]humbs.db
 *.DS_Store
-
-# Archivos de configuración local
 appsettings.Development.json
 *.config
-
-# Archivos de usuario
 *.userprefs
+
+# Herramientas de desarrollo
+_ReSharper.*/
+*.resharper
