@@ -8,17 +8,38 @@
 bin/
 obj/
 
+# Archivos de Docker
+Dockerfile.txt
+Dockerfile.original
+
 # Archivos de paquetes NuGet
 packages/
 *.nupkg
+*.nuget.props
+*.nuget.targets
+
+# Archivos específicos de NuGet en obj/
+**/obj/*.nuget.*
+**/obj/project.assets.json
+**/obj/project.nuget.cache
 
 # Archivos de caché de Resharper
 _ReSharper.*/
+*.resharper
 
 # Archivos de salida de compilación
 *.exe
 *.dll
 *.pdb
+*.cache
+
+# Archivos específicos de .NET
+**/obj/Debug/
+**/obj/Release/
+**/obj/project.assets.json
+**/obj/project.nuget.cache
+**/obj/*.csproj.nuget.*
+**/obj/Debug/net9.0/*
 
 # Archivos de caché del sistema operativo
 [Tt]humbs.db
@@ -27,3 +48,6 @@ _ReSharper.*/
 # Archivos de configuración local
 appsettings.Development.json
 *.config
+
+# Archivos de usuario
+*.userprefs
