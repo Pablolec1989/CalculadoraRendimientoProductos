@@ -101,8 +101,7 @@
               "RelativeToolTip": "ProductPerformanceCalculator\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T13:04:00.088Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-03T13:04:00.088Z"
             },
             {
               "$type": "Document",
@@ -114,8 +113,7 @@
               "RelativeToolTip": "ProductPerformanceCalculator\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-03T12:48:31.991Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-03T12:48:31.991Z"
             },
             {
               "$type": "Document",
@@ -127,8 +125,7 @@
               "RelativeToolTip": "ProductPerformanceCalculator\\Dockerfile",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-04-03T12:32:02.78Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-03T12:32:02.78Z"
             },
             {
               "$type": "Document",
@@ -140,8 +137,7 @@
               "RelativeToolTip": "ProductPerformanceCalculator\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-01T17:10:01.042Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-01T17:10:01.042Z"
             },
             {
               "$type": "Document",
@@ -153,8 +149,7 @@
               "RelativeToolTip": "ProductPerformanceCalculator\\appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-01T17:06:53.196Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-01T17:06:53.196Z"
             },
             {
               "$type": "Document",
@@ -215,8 +210,7 @@
               "RelativeToolTip": "ProductPerformanceCalculator\\Entities\\Producto.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAwwBUAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-01T17:02:44.409Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-01T17:02:44.409Z"
             }
           ]
         }

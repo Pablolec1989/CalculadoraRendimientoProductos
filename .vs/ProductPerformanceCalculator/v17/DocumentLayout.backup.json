@@ -3,23 +3,35 @@
   "WorkspaceRootPath": "C:\\Users\\LECCESE\\source\\repos\\CalculadoraRendimientoProductos\\ProductPerformanceCalculator\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{17B6E0AA-D6CE-40C2-8DD8-DEFEAED3C156}|ProductPerformanceCalculator\\ProductPerformanceCalculator.csproj|c:\\users\\leccese\\source\\repos\\calculadorarendimientoproductos\\productperformancecalculator\\productperformancecalculator\\entities\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{17B6E0AA-D6CE-40C2-8DD8-DEFEAED3C156}|ProductPerformanceCalculator\\ProductPerformanceCalculator.csproj|solutionrelative:productperformancecalculator\\entities\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{17B6E0AA-D6CE-40C2-8DD8-DEFEAED3C156}|ProductPerformanceCalculator\\ProductPerformanceCalculator.csproj|c:\\users\\leccese\\source\\repos\\calculadorarendimientoproductos\\productperformancecalculator\\productperformancecalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{17B6E0AA-D6CE-40C2-8DD8-DEFEAED3C156}|ProductPerformanceCalculator\\ProductPerformanceCalculator.csproj|solutionrelative:productperformancecalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LECCESE\\AppData\\Roaming\\Microsoft\\UserSecrets\\eb4fca64-a458-41d1-8ca0-86864e5549aa\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{17B6E0AA-D6CE-40C2-8DD8-DEFEAED3C156}|ProductPerformanceCalculator\\ProductPerformanceCalculator.csproj|c:\\users\\leccese\\source\\repos\\calculadorarendimientoproductos\\productperformancecalculator\\productperformancecalculator\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17B6E0AA-D6CE-40C2-8DD8-DEFEAED3C156}|ProductPerformanceCalculator\\ProductPerformanceCalculator.csproj|solutionrelative:productperformancecalculator\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17B6E0AA-D6CE-40C2-8DD8-DEFEAED3C156}|ProductPerformanceCalculator\\ProductPerformanceCalculator.csproj|c:\\users\\leccese\\source\\repos\\calculadorarendimientoproductos\\productperformancecalculator\\productperformancecalculator\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{17B6E0AA-D6CE-40C2-8DD8-DEFEAED3C156}|ProductPerformanceCalculator\\ProductPerformanceCalculator.csproj|solutionrelative:productperformancecalculator\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17B6E0AA-D6CE-40C2-8DD8-DEFEAED3C156}|ProductPerformanceCalculator\\ProductPerformanceCalculator.csproj|c:\\users\\leccese\\source\\repos\\calculadorarendimientoproductos\\productperformancecalculator\\productperformancecalculator\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{17B6E0AA-D6CE-40C2-8DD8-DEFEAED3C156}|ProductPerformanceCalculator\\ProductPerformanceCalculator.csproj|solutionrelative:productperformancecalculator\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{17B6E0AA-D6CE-40C2-8DD8-DEFEAED3C156}|ProductPerformanceCalculator\\ProductPerformanceCalculator.csproj|c:\\users\\leccese\\source\\repos\\calculadorarendimientoproductos\\productperformancecalculator\\productperformancecalculator\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{17B6E0AA-D6CE-40C2-8DD8-DEFEAED3C156}|ProductPerformanceCalculator\\ProductPerformanceCalculator.csproj|solutionrelative:productperformancecalculator\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{17B6E0AA-D6CE-40C2-8DD8-DEFEAED3C156}|ProductPerformanceCalculator\\ProductPerformanceCalculator.csproj|c:\\users\\leccese\\source\\repos\\calculadorarendimientoproductos\\productperformancecalculator\\productperformancecalculator\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{17B6E0AA-D6CE-40C2-8DD8-DEFEAED3C156}|ProductPerformanceCalculator\\ProductPerformanceCalculator.csproj|solutionrelative:productperformancecalculator\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{17B6E0AA-D6CE-40C2-8DD8-DEFEAED3C156}|ProductPerformanceCalculator\\ProductPerformanceCalculator.csproj|c:\\users\\leccese\\source\\repos\\calculadorarendimientoproductos\\productperformancecalculator\\productperformancecalculator\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{17B6E0AA-D6CE-40C2-8DD8-DEFEAED3C156}|ProductPerformanceCalculator\\ProductPerformanceCalculator.csproj|solutionrelative:productperformancecalculator\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17B6E0AA-D6CE-40C2-8DD8-DEFEAED3C156}|ProductPerformanceCalculator\\ProductPerformanceCalculator.csproj|c:\\users\\leccese\\source\\repos\\calculadorarendimientoproductos\\productperformancecalculator\\productperformancecalculator\\entities\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17B6E0AA-D6CE-40C2-8DD8-DEFEAED3C156}|ProductPerformanceCalculator\\ProductPerformanceCalculator.csproj|solutionrelative:productperformancecalculator\\entities\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LECCESE\\AppData\\Roaming\\Microsoft\\UserSecrets\\eb4fca64-a458-41d1-8ca0-86864e5549aa\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{17B6E0AA-D6CE-40C2-8DD8-DEFEAED3C156}|ProductPerformanceCalculator\\ProductPerformanceCalculator.csproj|c:\\users\\leccese\\source\\repos\\calculadorarendimientoproductos\\productperformancecalculator\\productperformancecalculator\\dtos\\productopropiocreationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -37,7 +49,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 16,
+          "SelectedChildIndex": 15,
           "Children": [
             {
               "$type": "Bookmark",
@@ -81,7 +93,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\LECCESE\\source\\repos\\CalculadoraRendimientoProductos\\ProductPerformanceCalculator\\ProductPerformanceCalculator\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ProductPerformanceCalculator\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\LECCESE\\source\\repos\\CalculadoraRendimientoProductos\\ProductPerformanceCalculator\\ProductPerformanceCalculator\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ProductPerformanceCalculator\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T13:04:00.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\LECCESE\\source\\repos\\CalculadoraRendimientoProductos\\ProductPerformanceCalculator\\ProductPerformanceCalculator\\appsettings.json",
+              "RelativeDocumentMoniker": "ProductPerformanceCalculator\\appsettings.json",
+              "ToolTip": "C:\\Users\\LECCESE\\source\\repos\\CalculadoraRendimientoProductos\\ProductPerformanceCalculator\\ProductPerformanceCalculator\\appsettings.json",
+              "RelativeToolTip": "ProductPerformanceCalculator\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-03T12:48:31.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\LECCESE\\source\\repos\\CalculadoraRendimientoProductos\\ProductPerformanceCalculator\\ProductPerformanceCalculator\\Dockerfile",
+              "RelativeDocumentMoniker": "ProductPerformanceCalculator\\Dockerfile",
+              "ToolTip": "C:\\Users\\LECCESE\\source\\repos\\CalculadoraRendimientoProductos\\ProductPerformanceCalculator\\ProductPerformanceCalculator\\Dockerfile",
+              "RelativeToolTip": "ProductPerformanceCalculator\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-03T12:32:02.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\LECCESE\\source\\repos\\CalculadoraRendimientoProductos\\ProductPerformanceCalculator\\ProductPerformanceCalculator\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "ProductPerformanceCalculator\\Properties\\launchSettings.json",
@@ -89,36 +140,38 @@
               "RelativeToolTip": "ProductPerformanceCalculator\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-01T17:10:01.042Z"
+              "WhenOpened": "2025-04-01T17:10:01.042Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\LECCESE\\source\\repos\\CalculadoraRendimientoProductos\\ProductPerformanceCalculator\\ProductPerformanceCalculator\\appsettings.Development.json",
               "RelativeDocumentMoniker": "ProductPerformanceCalculator\\appsettings.Development.json",
               "ToolTip": "C:\\Users\\LECCESE\\source\\repos\\CalculadoraRendimientoProductos\\ProductPerformanceCalculator\\ProductPerformanceCalculator\\appsettings.Development.json",
               "RelativeToolTip": "ProductPerformanceCalculator\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-01T17:06:53.196Z"
+              "WhenOpened": "2025-04-01T17:06:53.196Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\LECCESE\\source\\repos\\CalculadoraRendimientoProductos\\ProductPerformanceCalculator\\ProductPerformanceCalculator\\Program.cs",
               "RelativeDocumentMoniker": "ProductPerformanceCalculator\\Program.cs",
               "ToolTip": "C:\\Users\\LECCESE\\source\\repos\\CalculadoraRendimientoProductos\\ProductPerformanceCalculator\\ProductPerformanceCalculator\\Program.cs",
               "RelativeToolTip": "ProductPerformanceCalculator\\Program.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAABsAAABHAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-01T17:05:50.512Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "secrets.json",
               "DocumentMoniker": "C:\\Users\\LECCESE\\AppData\\Roaming\\Microsoft\\UserSecrets\\eb4fca64-a458-41d1-8ca0-86864e5549aa\\secrets.json",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\eb4fca64-a458-41d1-8ca0-86864e5549aa\\secrets.json",
@@ -126,12 +179,11 @@
               "RelativeToolTip": "..\\..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\eb4fca64-a458-41d1-8ca0-86864e5549aa\\secrets.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-01T17:05:02.453Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-01T17:05:02.453Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "ProductoPropioCreationDTO.cs",
               "DocumentMoniker": "C:\\Users\\LECCESE\\source\\repos\\CalculadoraRendimientoProductos\\ProductPerformanceCalculator\\ProductPerformanceCalculator\\DTOs\\ProductoPropioCreationDTO.cs",
               "RelativeDocumentMoniker": "ProductPerformanceCalculator\\DTOs\\ProductoPropioCreationDTO.cs",
@@ -143,7 +195,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "ProductoCreationDTO.cs",
               "DocumentMoniker": "C:\\Users\\LECCESE\\source\\repos\\CalculadoraRendimientoProductos\\ProductPerformanceCalculator\\ProductPerformanceCalculator\\DTOs\\ProductoCreationDTO.cs",
               "RelativeDocumentMoniker": "ProductPerformanceCalculator\\DTOs\\ProductoCreationDTO.cs",
@@ -155,7 +207,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Producto.cs",
               "DocumentMoniker": "C:\\Users\\LECCESE\\source\\repos\\CalculadoraRendimientoProductos\\ProductPerformanceCalculator\\ProductPerformanceCalculator\\Entities\\Producto.cs",
               "RelativeDocumentMoniker": "ProductPerformanceCalculator\\Entities\\Producto.cs",
