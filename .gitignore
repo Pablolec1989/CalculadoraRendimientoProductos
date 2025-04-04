@@ -37,3 +37,6 @@ appsettings.Development.json
 # Herramientas de desarrollo
 _ReSharper.*/
 *.resharper
+
+# .NET build folders
+**/obj/
